@@ -4,7 +4,7 @@ English version of wabot-aq
 
 Don't forget to give it a star  🌟
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tanmay-Twiaricyber/terminator)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tanmay-Tiwaricyber/terminator)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -158,7 +158,7 @@ conn.logger.level = 'debug'
 
 -------
 
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Tanmay](https://github.com/Tanmay-Tiwaricyber.png?size=100)](https://github.com/Tanmay-Tiaricyber/terminator) 
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Tanmay](https://github.com/Tanmay-Tiwaricyber.png?size=100)](https://github.com/Tanmay-Tiwaricyber/terminator) 
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [Tanmay](https://github.com/Tanmay-Tiwaricyber/terminator) 
 Author / Creator | Editor
