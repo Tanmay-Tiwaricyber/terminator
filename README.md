@@ -158,10 +158,11 @@ conn.logger.level = 'debug'
 
 -------
 
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Tanmay](https://github.com/Tanmay-Tiwaricyber.png?size=100)](https://github.com/Tanmay-Tiwaricyber/terminator) 
-----|----
-[Nurutomo](https://github.com/Nurutomo) | [Tanmay](https://github.com/Tanmay-Tiwaricyber/terminator) 
-Author / Creator | Editor
+[![Tanmay Tiwari](https://github.com/Tanmay-Tiwaricyber.png?size=100)](https://github.com/Tanmay-Tiwaricyber) 
+
+[Tanmay Tiwari](https://github.com/Tanmay-Tiwaricyber) 
+
+(Author / Creator)
  
 
 
